@@ -1,2 +1,2 @@
 # JavaTutorials
-Learning complex Data structures in Java
+Learning complex data structures in Java
